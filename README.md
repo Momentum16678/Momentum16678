@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hey, I’m Ighedosa Favour —  💻 Mobile Developer | Content Creator | Lifelong Learner
+👋 Hey, I’m Ighedosa Favour —  💻 Mobile Developer 
 
 👀 Passionate about mobile development, especially front-end technologies and crafting clean, user-friendly UIs.
 
