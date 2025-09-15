@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🌱 Currently learning jetpack compose and refining my flutter skills.
 
-🎯 2025 Goal: Grow as a Mobile developer, land impactful collaborations, and hit my milestone of ₦20 million through code and freelancing.
+🎯 2025 Goal: Grow as a mobile developer and land impactful collaborations.
 
 <h5 align="left">My Toolkit</h5>
 
