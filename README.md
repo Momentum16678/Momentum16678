@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hey, I’m Ighedosa Favour —  💻 Mobile Developer 
+👋 Hey, I’m Ighedosa Favour —  💻 Mobile Developer | Flutter & Kotlin Engineer | Lifelong Learner | Open to Opportunities
 
 👀 Passionate about mobile development, especially front-end technologies and crafting clean, user-friendly UIs.
 
