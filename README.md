@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **Momentum16678/Momentum16678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,33 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hey, I’m Ighedosa Favour —  💻 Front-End Developer | Content Creator | Lifelong Learner
+👋 Hey, I’m Ighedosa Favour —  💻 Mobile Developer | Content Creator | Lifelong Learner
 
-👀 Passionate about  development, especially front-end technologies and crafting clean, user-friendly UIs.
+👀 Passionate about mobile development, especially front-end technologies and crafting clean, user-friendly UIs.
 
-🌱 Currently learning React and sharpening my JavaScript skills.
+🌱 Currently learning jetpack compose and refining my flutter skills.
 
-🚀 Built projects like:
-
-🎓 School Management System – managing admin & student workflows
-
-🎯 2025 Goal: Grow as a React developer, land impactful collaborations, and hit my milestone of ₦50 million through code + freelancing.
-
-✨ Also building CodeByJerat on YouTube & TikTok — sharing dev insights, behind-the-scenes, and the lifestyle of a self-taught engineer.
-
-###
-
-<p align="left">My name is Ighedosa Favour and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
+🎯 2025 Goal: Grow as a Mobile developer, land impactful collaborations, and hit my milestone of ₦20 million through code and freelancing.
 
 <h5 align="left">My Toolkit</h5>
 
