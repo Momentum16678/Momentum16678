@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 👀 Passionate about mobile development, especially front-end technologies and crafting clean, user-friendly UIs.
 
-🌱 Currently learning jetpack compose and refining my flutter skills.
+🌱 Currently learning kotlin multiplatform and refining my flutter skills.
 
 🎯 2026 Goal: Grow as a mobile developer and land impactful collaborations.
 
