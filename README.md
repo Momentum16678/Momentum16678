@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hey, I’m Ighedosa Favour - 💻 Mobile Developer | Flutter & Kotlin Engineer | Lifelong Learner | Open to Opportunities
+👋 Hey, I’m Ighedosa Favour - 💻 Software Engineer | Lifelong Learner | Open to Opportunities
 
 👀 Passionate about mobile development, especially front-end technologies and crafting clean, user-friendly UIs.
 
 🌱 Currently learning kotlin multiplatform and refining my flutter skills.
 
-🎯 2026 Goal: Grow as a mobile developer and land impactful collaborations.
+🎯 2026 Goal: Grow as an engineer and land impactful collaborations.
 
 <h5 align="left">My Toolkit</h5>
 
